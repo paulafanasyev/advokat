@@ -7,3 +7,5 @@
 Pages: https://paulafanasyev.github.io/advokat/
 
 Сайт статический. Помощник записи формирует письмо mailto; серверная база заявок не используется.
+
+Deployment check: GitHub Pages workflow enabled.
